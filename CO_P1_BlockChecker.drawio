@@ -88,6 +88,9 @@
         <mxCell id="R--Hxb_KtxM9hNmte2iH-39" value="记录当前单词" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="630" y="245" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R--Hxb_KtxM9hNmte2iH-40" value="fatal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
